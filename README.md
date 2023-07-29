@@ -4,13 +4,13 @@ WebGL buffer wrapper.
 
 ## Installation
 
-```sh
+``` sh
 $ npm install --save @ahmerhh/WebGraphicLibrary-buffer
 ```
 
 ## Usage
 
-```js
+``` js
 import Buffer from '@ahmerhh/WebGraphicLibrary-buffer';
 
 // setup canvas, gl, program, etc.
