@@ -44,7 +44,7 @@ facesBuffer.bind();
 #### `buffer = new Buffer(gl, type, data, usage)`
 
 Create a new buffer, where:
-- `gl` is the [WebGL context](https://github.com/ahmerhh/gl-context).
+- `gl` is the [WebGraphicLibrary context](https://github.com/ahmerhh/WebGraphicLibrary-context).
 - `type` is the buffer type. Default is `gl.ARRAY_BUFFER`.
 - `data` is a typed array representing the data.
 - `usage` is the buffer usage type. Default is `gl.STATIC_DRAW`.
