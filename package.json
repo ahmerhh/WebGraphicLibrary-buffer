@@ -1,5 +1,5 @@
 {
-  "name": "webgraphiclibrary-buffer",
+  "name": "@ahmerhh/webgraphiclibrary-buffer",
   "version": "1.0.0",
   "description": "WebGL buffer wrapper.",
   "main": "index.js",
